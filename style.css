@@ -1,0 +1,14 @@
+.card-text {
+    font-size: 15px;
+    text-align: center;
+}
+
+/* .card-text_2 {
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: 0;
+} */
+
+.card-body {
+    padding: 25px 1px 25px;
+}
